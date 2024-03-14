@@ -19,7 +19,7 @@ body {
 
 .logo img {
     width: 100px; /* Modifica la larghezza del logo secondo le tue preferenze */
-    height: auto; /* Mantieni l'altezza proporzionale */
+    height: 100px; /* Mantieni l'altezza proporzionale */
 }
 
 .container {
